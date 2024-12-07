@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+.vscode/
+Data/
+etc/
+Lib/
+Media/
+Scripts/
+share/
+*.egg-info/
+*.cfg
+*.jpg
