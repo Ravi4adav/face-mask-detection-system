@@ -85,7 +85,7 @@ elif choice=="Camera":
     if link=='0':
         link=0
     else:
-        link=link+'/video'
+        link=link+'/video' 
     # creating window for showing the frames of video.
     window=st.empty()
     if button:
